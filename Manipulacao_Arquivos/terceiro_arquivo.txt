@@ -1,0 +1,2 @@
+Vamos abrir esse arquivo no MeuTerceiroArquivo.py
+O read <r> vai ler esse arquivo
