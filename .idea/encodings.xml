@@ -2,7 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Dicionarios/bd.txt" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/Manipulacao_Arquivos/importandoBD_JSON.py" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Manipulacao_Arquivos/escrevendo_arquivo_bd1_JSON.py" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/Manipulacao_Arquivos/primeiro_arquivo.txt" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/Manipulacao_Arquivos/segundo_arquivo.txt" charset="windows-1252" />
   </component>
